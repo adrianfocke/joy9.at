@@ -1,0 +1,18 @@
+# Created by https://www.toptal.com/developers/gitignore/api/jekyll,ruby,linux,sass
+
+### Jekyll ###
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+### Linux ###
+*~
+.fuse_hidden*
+.Trash-*
+.nfs*
+
+### Sass ###
+*.css.map
+*.sass.map
+*.scss.map

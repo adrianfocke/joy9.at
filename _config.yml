@@ -1,0 +1,6 @@
+title: Joy Art
+port: 4000
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-autoprefixer
